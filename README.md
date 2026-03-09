@@ -21,12 +21,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="27" height="27" /> 기술 스택
 
-### 프론트엔드
-![image](https://github.com/user-attachments/assets/56165466-e1a2-4a21-91b6-eb1b7cdd43c8)
-
-### AI
-![image](https://github.com/user-attachments/assets/116b76b0-7664-4a43-b008-159957719639)
-
 ### 백엔드
 ![image](https://github.com/user-attachments/assets/bdbf927e-c3cc-4f24-a9aa-32b72a3772b5)
 
